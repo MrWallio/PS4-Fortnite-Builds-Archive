@@ -1,6 +1,6 @@
 # PS4 Fortnite Builds Archive
 
-An archive of all PS4 Fortnite builds for **CUSA07022** (US version). All of them are decrypted, dumped straight from a jailbroken PS4 with no modifications.
+An archive of all PS4 Fortnite builds for **CUSA07022** (US version). All of them are decrypted, dumped straight from a jailbroken PS4 with no modifications to the game files.
 
 Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to it yet.
 
