@@ -2,11 +2,27 @@
 
 A catalog of PS4 Fortnite builds for **CUSA07022**, organized by season. Recovered builds and repacks will be linked here as they become available.
 
-Each build is listed as **Fortnite version**, **CL**, and **PS4 package version**. Changelists will be added later. **Not uploaded** means no archive download is currently published; it does not mean the build is lost.
+Each build is listed as **Fortnite version**, **CL**, and **PS4 package version**. Verified changelists are included where available; the remaining changelists will be added later. **Not uploaded** means no archive download is currently published; it does not mean the build is lost.
 
-This first catalog includes all **387 patches** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) when checked on October 20, 2026. A catalog entry does not mean that build has been dumped, repacked, or tested.
+This catalog includes **OT11** and all **387 patches** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) when checked on October 20, 2026. A catalog entry does not mean that build has been dumped, repacked, or tested.
 
-**Version labels:** 245 come directly from publisher patch notes. A **?** marks a provisional release-family match from package dates and Epic's release timeline; the exact version and any maintenance revision still need confirmation from the game files. **Version pending** means no reliable match is established. Package creation dates can precede release dates, and publisher notes can also contain mistakes. CL values will remain `CL-clgoeshere` until checked on PS4.
+**What does ? mean?** The Fortnite version match is **unconfirmed**: it was inferred from dates rather than explicitly named in the publisher's patch notes. It does **not** mean the download is missing or corrupt. There are 245 patch-note version labels and 141 provisional matches. **Version pending** means no reliable match is established. Exact versions and maintenance revisions will be checked against game files; unknown CL values remain `CL-clgoeshere`.
+
+## Online Testing
+
+<table>
+<thead>
+<tr><th width="320">Build</th><th width="520">Download</th></tr>
+</thead>
+<tbody>
+<tr>
+<td width="320"><strong>OT11</strong><br><code>CL-3472679</code><br>PS4&nbsp;v1.00</td>
+<td width="520"><a href="https://archive.org/details/fortnite_ot11_ps4">Archive.org</a></td>
+</tr>
+</tbody>
+</table>
+
+This is the existing modified FPKG: recording is enabled and the PSN sign-in prompt is bypassed. Backend work is still required for gameplay. The changelist and PS4 package version were checked against the locally inspected OT11 dump.
 
 ## Unidentified early builds
 
@@ -2002,4 +2018,4 @@ This first catalog includes all **387 patches** listed on [ORBISPatches](https:/
 - [Epic Games release notes](https://dev.epicgames.com/documentation/en-us/fortnite/whats-new-in-unreal-editor-for-fortnite) — release timeline used to research provisional matches.
 - [llamaqwerty/fortnite-builds-archive](https://github.com/llamaqwerty/fortnite-builds-archive) — inspiration for the season-based catalog format.
 
-Only patches actually listed by ORBISPatches are included in this initial inventory. Missing PS4 version numbers have not been invented, and PC changelists have not been reused as PS4 changelists.
+The patch inventory includes only versions actually listed by ORBISPatches; OT11 is listed separately from the Archive.org source. Missing PS4 version numbers have not been invented, and PC changelists have not been reused as PS4 changelists.
