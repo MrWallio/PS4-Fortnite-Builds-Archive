@@ -2,7 +2,7 @@
 
 A catalog of PS4 Fortnite builds for **CUSA07022**, organized by season. Recovered builds and repacks will be linked here as they become available.
 
-Each build is listed as **Fortnite version**, **CL**, and **PS4 package version**. Verified changelists are included where available; the remaining changelists will be added later. **Not uploaded** means no archive download is currently published; it does not mean the build is lost.
+Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to it yet.
 
 This catalog includes **OT11** and all **387 patches** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) when checked on October 20, 2026. A catalog entry does not mean that build has been dumped, repacked, or tested.
 
