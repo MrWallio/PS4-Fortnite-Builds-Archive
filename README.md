@@ -8,7 +8,7 @@ This catalog includes **OT11** (version 1 that is only on the fortnite disc) and
 
 **What does ? mean?** The Fortnite version match is **unconfirmed**: I used AI to find the dates of when those patches were published and correlated them to fortnite version at the time, I will add the correct clarified version and CL when I dump the version.
 
-* its every build link documented, the retail pkg files are publicly available and downloadable online but they are encrypted and unmodifiable, this repo takes all of the publicly documented and archived downloads for CUSA7022 and decrypts them so you can freely load them onto your console and modify them for your own projects.
+*its every build link documented, the retail pkg files are publicly available and downloadable online but they are encrypted and unmodifiable, this repo takes all of the publicly documented and archived downloads for CUSA7022 and decrypts them so you can freely load them onto your console and modify them for your own projects.
 
 ## Online Testing
 
