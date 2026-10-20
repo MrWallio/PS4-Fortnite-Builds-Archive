@@ -2,7 +2,7 @@
 
 An archive of all* PS4 Fortnite builds for **CUSA07022** (US version). All of them are decrypted, dumped straight from my jailbroken PS4 with no modifications to the game files.
 
-**Jump to:** [Online Testing](#online-testing) · [Early Builds](#early-builds) · [Chapter 1](#chapter-1) · [Chapter 2](#chapter-2) · [Chapter 3](#chapter-3) · [Chapter 4](#chapter-4) · [Chapter 5](#chapter-5) · [Chapter 6](#chapter-6) · [Chapter 7](#chapter-7)
+**Jump to:** [Chapter 1](#chapter-1) · [Chapter 2](#chapter-2) · [Chapter 3](#chapter-3) · [Chapter 4](#chapter-4) · [Chapter 5](#chapter-5) · [Chapter 6](#chapter-6) · [Chapter 7](#chapter-7)
 
 Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to dumping it yet.
 
@@ -2039,4 +2039,5 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 - [llamaqwerty/fortnite-builds-archive](https://github.com/llamaqwerty/fortnite-builds-archive) — inspiration for the season-based catalog format.
 
 The patch inventory includes only versions actually listed by ORBISPatches; OT11 is listed separately from the Archive.org source. Missing PS4 version numbers have not been invented, and PC changelists have not been reused as PS4 changelists.
+
 
