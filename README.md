@@ -22,7 +22,7 @@ This catalog includes **OT11** (version 1 that is only on the fortnite disc) and
 </tbody>
 </table>
 
-This is the existing modified FPKG: recording is enabled and the PSN sign-in prompt is bypassed. Backend work is still required for gameplay. The changelist and PS4 package version were checked against the locally inspected OT11 dump.
+This is the existing modified FPKG: recording is enabled and the PSN sign-in prompt is bypassed. Backend work is still required for gameplay.
 
 ## Unidentified early builds
 
