@@ -2,7 +2,7 @@
 
 An archive of all* PS4 Fortnite builds for **CUSA07022** (US version). All of them are decrypted, dumped straight from my jailbroken PS4 with no modifications to the game files.
 
-Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to it yet.
+Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to dumping it yet.
 
 This catalog includes **OT11** (version 1 that is only on the fortnite disc) and all subsequent **387 updates** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) as of October 20, 2026.
 
