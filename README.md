@@ -2,6 +2,8 @@
 
 An archive of all* PS4 Fortnite builds for **CUSA07022** (US version). All of them are decrypted, dumped straight from my jailbroken PS4 with no modifications to the game files.
 
+**Jump to:** [Online Testing](#online-testing) · [Early Builds](#early-builds) · [Chapter 1](#chapter-1) · [Chapter 2](#chapter-2) · [Chapter 3](#chapter-3) · [Chapter 4](#chapter-4) · [Chapter 5](#chapter-5) · [Chapter 6](#chapter-6) · [Chapter 7](#chapter-7)
+
 Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to dumping it yet.
 
 This catalog includes **OT11** (version 1 that is only on the fortnite disc) and all subsequent **387 updates** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) as of October 20, 2026.
@@ -26,7 +28,9 @@ This catalog includes **OT11** (version 1 that is only on the fortnite disc) and
 
 This is the existing modified FPKG: recording is enabled and the PSN sign-in prompt is bypassed. Backend work is still required for gameplay.
 
-## Unidentified early builds
+## Early Builds
+
+### Unidentified early builds
 
 <table>
 <thead>
@@ -40,7 +44,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Pre-Season
+### Pre-Season
 
 <table>
 <thead>
@@ -58,7 +62,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 1
+## Chapter 1
+
+### Season 1
 
 <table>
 <thead>
@@ -84,7 +90,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 2
+### Season 2
 
 <table>
 <thead>
@@ -114,7 +120,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 3
+### Season 3
 
 <table>
 <thead>
@@ -180,7 +186,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 4
+### Season 4
 
 <table>
 <thead>
@@ -222,7 +228,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 5
+### Season 5
 
 <table>
 <thead>
@@ -284,7 +290,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 6
+### Season 6
 
 <table>
 <thead>
@@ -350,7 +356,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 7
+### Season 7
 
 <table>
 <thead>
@@ -404,7 +410,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 8
+### Season 8
 
 <table>
 <thead>
@@ -474,7 +480,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 9
+### Season 9
 
 <table>
 <thead>
@@ -524,7 +530,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 10
+### Season 10
 
 <table>
 <thead>
@@ -570,7 +576,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 11
+## Chapter 2
+
+### Season 1 (v11.xx)
 
 <table>
 <thead>
@@ -652,7 +660,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 12
+### Season 2 (v12.xx)
 
 <table>
 <thead>
@@ -726,7 +734,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 13
+### Season 3 (v13.xx)
 
 <table>
 <thead>
@@ -772,7 +780,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 14
+### Season 4 (v14.xx)
 
 <table>
 <thead>
@@ -838,7 +846,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 15
+### Season 5 (v15.xx)
 
 <table>
 <thead>
@@ -900,7 +908,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 16
+### Season 6 (v16.xx)
 
 <table>
 <thead>
@@ -946,7 +954,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 17
+### Season 7 (v17.xx)
 
 <table>
 <thead>
@@ -1004,7 +1012,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 18
+### Season 8 (v18.xx)
 
 <table>
 <thead>
@@ -1050,7 +1058,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 19
+## Chapter 3
+
+### Season 1 (v19.xx)
 
 <table>
 <thead>
@@ -1096,7 +1106,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 20
+### Season 2 (v20.xx)
 
 <table>
 <thead>
@@ -1146,7 +1156,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 21
+### Season 3 (v21.xx)
 
 <table>
 <thead>
@@ -1196,7 +1206,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 22
+### Season 4 (v22.xx)
 
 <table>
 <thead>
@@ -1234,7 +1244,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 23
+## Chapter 4
+
+### Season 1 (v23.xx)
 
 <table>
 <thead>
@@ -1280,7 +1292,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 24
+### Season 2 (v24.xx)
 
 <table>
 <thead>
@@ -1322,7 +1334,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 25
+### Season 3 (v25.xx)
 
 <table>
 <thead>
@@ -1360,7 +1372,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 26
+### Season 4 (v26.xx)
 
 <table>
 <thead>
@@ -1394,7 +1406,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 27
+### Fortnite OG (v27.xx)
 
 <table>
 <thead>
@@ -1416,7 +1428,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 28
+## Chapter 5
+
+### Season 1 (v28.xx)
 
 <table>
 <thead>
@@ -1458,7 +1472,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 29
+### Season 2 (v29.xx)
 
 <table>
 <thead>
@@ -1508,7 +1522,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 30
+### Season 3 (v30.xx)
 
 <table>
 <thead>
@@ -1546,7 +1560,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 31
+### Season 4 (v31.xx)
 
 <table>
 <thead>
@@ -1588,7 +1602,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 32
+### Chapter 2 Remix (v32.xx)
 
 <table>
 <thead>
@@ -1614,7 +1628,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 33
+## Chapter 6
+
+### Season 1 (v33.xx)
 
 <table>
 <thead>
@@ -1656,7 +1672,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 34
+### Season 2 (v34.xx)
 
 <table>
 <thead>
@@ -1702,7 +1718,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 35
+### Galactic Battle (v35.xx)
 
 <table>
 <thead>
@@ -1732,7 +1748,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 36
+### Season 3 (v36.xx)
 
 <table>
 <thead>
@@ -1770,7 +1786,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 37
+### Season 4 (v37.xx)
 
 <table>
 <thead>
@@ -1820,7 +1836,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 38
+### The Simpsons (v38.xx)
 
 <table>
 <thead>
@@ -1846,7 +1862,9 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 39
+## Chapter 7
+
+### Season 1 (v39.xx)
 
 <table>
 <thead>
@@ -1900,7 +1918,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 40
+### Season 2 (v40.xx)
 
 <table>
 <thead>
@@ -1938,7 +1956,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 41
+### Season 3 (v41.xx)
 
 <table>
 <thead>
@@ -1972,7 +1990,7 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 </tbody>
 </table>
 
-## Season 42
+### Season 4 (v42.xx)
 
 <table>
 <thead>
@@ -2021,3 +2039,4 @@ This is the existing modified FPKG: recording is enabled and the PSN sign-in pro
 - [llamaqwerty/fortnite-builds-archive](https://github.com/llamaqwerty/fortnite-builds-archive) — inspiration for the season-based catalog format.
 
 The patch inventory includes only versions actually listed by ORBISPatches; OT11 is listed separately from the Archive.org source. Missing PS4 version numbers have not been invented, and PC changelists have not been reused as PS4 changelists.
+
