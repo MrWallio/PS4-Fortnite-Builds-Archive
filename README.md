@@ -1,12 +1,12 @@
 # PS4 Fortnite Builds Archive
 
-A catalog of PS4 Fortnite builds for **CUSA07022**, organized by season. Recovered builds and repacks will be linked here as they become available.
+An archive of all PS4 Fortnite builds for **CUSA07022** (US version). All of them are decrypted, dumped straight from a jailbroken PS4 with no modifications.
 
 Each build is listed with its **Fortnite version**, **CL**, and **PS4 package version**. **Not uploaded** means no archive download is currently published; it does not mean the build is lost, I just haven't gotten to it yet.
 
-This catalog includes **OT11** and all **387 patches** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) when checked on October 20, 2026. A catalog entry does not mean that build has been dumped, repacked, or tested.
+This catalog includes **OT11** (version 1 that is only on the fortnite disc) and all subsequent **387 updates** listed on [ORBISPatches](https://orbispatches.com/CUSA07022) as of October 20, 2026.
 
-**What does ? mean?** The Fortnite version match is **unconfirmed**: it was inferred from dates rather than explicitly named in the publisher's patch notes. It does **not** mean the download is missing or corrupt. There are 245 patch-note version labels and 141 provisional matches. **Version pending** means no reliable match is established. Exact versions and maintenance revisions will be checked against game files; unknown CL values remain `CL-clgoeshere`.
+**What does ? mean?** The Fortnite version match is **unconfirmed**: I used AI to find the dates of when those patches were published and correlated them to fortnite version at the time, i will add the correct clarified version and CL when I dump the version
 
 ## Online Testing
 
